@@ -1,0 +1,16 @@
+[
+{
+  "modid": "slathermap",
+  "name": "Slather-Map",
+  "description": "Allows the user to 'slather' biomes and topography onto an adventure map using their favored paint program!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Talonos"],
+  "credits": "TerrainControl and WorldPainter were inspirations.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
